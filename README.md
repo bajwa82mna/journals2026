@@ -23,3 +23,4 @@ This project presents the data in an accessible English-language interface.
 
 ## Usage
 Visit the live site: 
+https://smbajwa.com/tools/emerging-journals-2026/
